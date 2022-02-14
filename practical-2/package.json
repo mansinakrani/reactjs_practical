@@ -6,11 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack serve",
+    "start": "webpack serve --mode production --open --hot",
     "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mansinakrani/reactjs_practical.git"
+    "url": "https://github.com/mansinakrani/reactjs_practical.git"
   },
   "keywords": [
     "[]"
